@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Rao</h1>
-<h3 align="center">A passionate Full Stack DEveloper</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/sushant-rao-351630249/**
 
