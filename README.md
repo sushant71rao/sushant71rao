@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushant Rao
-- 👀 I’m interested in Blockchain,Ai etc and more Computer science concepts
-- 🌱 I’m currently on The path of Web development
+- 👀 I’m an IT student Currently exploring New Tech..
+- 🌱 I'm a Full Stack Web Developer Trying to make Some sustainable Websites 
 
 
 <!---
